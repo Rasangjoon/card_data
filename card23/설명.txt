@@ -1,15 +1,14 @@
 card_data
+analyzed_df.csv = 데이터를 보기 위한 기본 클렌징 데이터
+card_data.csv = 네이버 웹 사이트를 크롤링한 데이터.
+composition_list.csv = parameter 값
+data.ipynb = 클렌징하기 위한 파일 => analyzed_df
+NAN.ipynb = 결측값 데이터 테스트
+navercard.ipynb = 네이버 웹 사이트를 크롤링하기 위한 파일.
+shinhan.ipynb = 신한카드의 할인 혜택 가게 나열
+soby_test = card, soby 데이터 분석
 
-
-- 호아솔루션
-
-
-
-
-
-
-- 한양대학교
-
+www.ipynb = 크롤링 테스트(실패)
 
 
 라상준
